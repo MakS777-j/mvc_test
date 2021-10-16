@@ -1,0 +1,30 @@
+input[type=text]{
+    
+    width: 700px;
+    border: 1px solid blue;
+    border-radius: 5px;
+    padding: 12px 20px;
+    box-sizing: border-box;
+}
+#b{
+    display: inline-block;
+} 
+table{
+    margin: 40px 0px 0px 120px;
+    border-collapse: collapse;
+    height: 100px;
+}
+
+td{
+    padding: 5px;
+    text-align: center;
+    border: 1px solid blue;
+}
+section{
+    display: flex;
+} 
+
+img{
+    width: 100px;
+    height: 100px;
+}
